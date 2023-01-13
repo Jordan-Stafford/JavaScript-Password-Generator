@@ -16,7 +16,7 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Description](#description)
-- [Features](#features)
+- [Media](#media)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [Contact](#contact)
@@ -44,11 +44,14 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Description
+This is the 3 challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have learned the fundamentals of JavaScript and how JavaScript can be implemented alongside HTML and CSS. 
 
-## Features
-//INSERT MEDIA//
+## Media
+![GitHub_3](https://user-images.githubusercontent.com/114362462/212437946-b669c3ee-d06f-4ad5-b5f8-dfc9ffe9ad07.png)
+![GitHub_3(3)](https://user-images.githubusercontent.com/114362462/212437950-11094789-ced0-4ce9-9107-2717be616311.png)
 
 ## Installation
+Fork this this repo/copy the code onto your machine.
 
 ## Contributor(s)
 [Jordan-Stafford](https://github.com/Jordan-Stafford)
