@@ -44,7 +44,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Description
-This is the 3 challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have learned the fundamentals of JavaScript and how JavaScript can be implemented alongside HTML and CSS. 
+This is the 3rd challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have learned the fundamentals of JavaScript and how JavaScript can be implemented alongside HTML and CSS. 
 
 ## Media
 ![GitHub_3](https://user-images.githubusercontent.com/114362462/212437946-b669c3ee-d06f-4ad5-b5f8-dfc9ffe9ad07.png)
